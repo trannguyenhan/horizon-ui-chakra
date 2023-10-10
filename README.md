@@ -71,6 +71,7 @@ Build product with docker:
 ```bash
 npm install
 npm run build
+docker-compose up -d --build
 ```
 
 
