@@ -66,6 +66,14 @@ Then run this command to start your local server
 npm start
 ```
 
+Build product with docker:
+
+```bash
+npm install
+npm run build
+```
+
+
 ### Example Pages
 
 If you want to get inspiration or just show something directly to your clients,
